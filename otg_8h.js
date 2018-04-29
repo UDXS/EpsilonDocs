@@ -1,0 +1,25 @@
+var otg_8h =
+[
+    [ "OTG", "class_o_t_g.html", "class_o_t_g" ],
+    [ "GAHBCFG", "class_o_t_g_1_1_g_a_h_b_c_f_g.html", "class_o_t_g_1_1_g_a_h_b_c_f_g" ],
+    [ "GUSBCFG", "class_o_t_g_1_1_g_u_s_b_c_f_g.html", "class_o_t_g_1_1_g_u_s_b_c_f_g" ],
+    [ "GRSTCTL", "class_o_t_g_1_1_g_r_s_t_c_t_l.html", "class_o_t_g_1_1_g_r_s_t_c_t_l" ],
+    [ "GINTSTS", "class_o_t_g_1_1_g_i_n_t_s_t_s.html", "class_o_t_g_1_1_g_i_n_t_s_t_s" ],
+    [ "GINTMSK", "class_o_t_g_1_1_g_i_n_t_m_s_k.html", "class_o_t_g_1_1_g_i_n_t_m_s_k" ],
+    [ "GRXSTSP", "class_o_t_g_1_1_g_r_x_s_t_s_p.html", "class_o_t_g_1_1_g_r_x_s_t_s_p" ],
+    [ "GRXFSIZ", "class_o_t_g_1_1_g_r_x_f_s_i_z.html", "class_o_t_g_1_1_g_r_x_f_s_i_z" ],
+    [ "DIEPTXF0", "class_o_t_g_1_1_d_i_e_p_t_x_f0.html", "class_o_t_g_1_1_d_i_e_p_t_x_f0" ],
+    [ "GCCFG", "class_o_t_g_1_1_g_c_c_f_g.html", "class_o_t_g_1_1_g_c_c_f_g" ],
+    [ "DCFG", "class_o_t_g_1_1_d_c_f_g.html", "class_o_t_g_1_1_d_c_f_g" ],
+    [ "DCTL", "class_o_t_g_1_1_d_c_t_l.html", "class_o_t_g_1_1_d_c_t_l" ],
+    [ "DIEPMSK", "class_o_t_g_1_1_d_i_e_p_m_s_k.html", "class_o_t_g_1_1_d_i_e_p_m_s_k" ],
+    [ "DAINTMSK", "class_o_t_g_1_1_d_a_i_n_t_m_s_k.html", "class_o_t_g_1_1_d_a_i_n_t_m_s_k" ],
+    [ "DIEPCTL0", "class_o_t_g_1_1_d_i_e_p_c_t_l0.html", "class_o_t_g_1_1_d_i_e_p_c_t_l0" ],
+    [ "DOEPCTL0", "class_o_t_g_1_1_d_o_e_p_c_t_l0.html", "class_o_t_g_1_1_d_o_e_p_c_t_l0" ],
+    [ "DIEPINT", "class_o_t_g_1_1_d_i_e_p_i_n_t.html", "class_o_t_g_1_1_d_i_e_p_i_n_t" ],
+    [ "DIEPTSIZ0", "class_o_t_g_1_1_d_i_e_p_t_s_i_z0.html", "class_o_t_g_1_1_d_i_e_p_t_s_i_z0" ],
+    [ "DOEPTSIZ0", "class_o_t_g_1_1_d_o_e_p_t_s_i_z0.html", "class_o_t_g_1_1_d_o_e_p_t_s_i_z0" ],
+    [ "PCGCCTL", "class_o_t_g_1_1_p_c_g_c_c_t_l.html", "class_o_t_g_1_1_p_c_g_c_c_t_l" ],
+    [ "DFIFO0", "class_o_t_g_1_1_d_f_i_f_o0.html", null ],
+    [ "OTG", "otg_8h.html#afccc37bfd7d71a093611e6b20a52886a", null ]
+];

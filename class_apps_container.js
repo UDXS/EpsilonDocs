@@ -1,0 +1,26 @@
+var class_apps_container =
+[
+    [ "AppsContainer", "class_apps_container.html#ae71900fc568182cf59881e0e88eea644", null ],
+    [ "appSnapshotAtIndex", "class_apps_container.html#ac83e53c227f63b176cb3d7fd742276eb", null ],
+    [ "dispatchEvent", "class_apps_container.html#a432d82eec505688ce33c3eafc776615c", null ],
+    [ "displayExamModePopUp", "class_apps_container.html#a0e93db2b4b5d107bd69a3146a58bfe82", null ],
+    [ "examDeactivatingPopUpIsDismissed", "class_apps_container.html#a13031607f9656fa52d7eca7c3da094e5", null ],
+    [ "globalContext", "class_apps_container.html#a82c6cb9661c36a9da393469902f5da99", null ],
+    [ "hardwareTestAppSnapshot", "class_apps_container.html#a9244ee0f1629da2cc4b73d0aded0ba6d", null ],
+    [ "homeAppSnapshot", "class_apps_container.html#a0da12cda6fd6c64bdb4520af066f1328", null ],
+    [ "mathToolbox", "class_apps_container.html#a8e78594ed3f7b4ad0bd232606502cb39", null ],
+    [ "numberOfApps", "class_apps_container.html#ac7b9a695f400be6a9b519d3fc882ca13", null ],
+    [ "onBoardingAppSnapshot", "class_apps_container.html#af0ab916343c153d74a706c8c3b2f67ad", null ],
+    [ "redrawWindow", "class_apps_container.html#a78dab432b144fc2127a625a289444ba7", null ],
+    [ "refreshPreferences", "class_apps_container.html#ac08881ea3a2a612d4611f344cd02d51f", null ],
+    [ "reset", "class_apps_container.html#aa8bcdf35b61bbe95f4c05280b520e999", null ],
+    [ "run", "class_apps_container.html#add985ca2f5f3be0131d300d4e1c7badc", null ],
+    [ "setShiftAlphaStatus", "class_apps_container.html#a15db99f75e8d92f91ccca969a9e2e860", null ],
+    [ "shutdownDueToLowBattery", "class_apps_container.html#a104e1dd9b5a0c3bda665ce1777eb931f", null ],
+    [ "suspend", "class_apps_container.html#ad1cd6c283ed804611bf32f5af83ee6a6", null ],
+    [ "switchTo", "class_apps_container.html#a34bc715265badcf7009ea31b751ea582", null ],
+    [ "updateBatteryState", "class_apps_container.html#a8e208781c6eb3f4751eba954c4f09c03", null ],
+    [ "updatePopUpController", "class_apps_container.html#a9d712904f20de8d8f4f8b6da3b90290e", null ],
+    [ "usbConnectedAppSnapshot", "class_apps_container.html#a35512f2e94a55cb0a4561ba91f1ee954", null ],
+    [ "variableBoxController", "class_apps_container.html#a70cce0095997fdbb452cf124573f9b80", null ]
+];

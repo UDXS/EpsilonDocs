@@ -1,0 +1,35 @@
+var class_poincare_1_1_symbol =
+[
+    [ "SpecialSymbols", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244", [
+      [ "Ans", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a28643ca34ba2e15e3ebe4dfa6f1aa31b", null ],
+      [ "un", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244ac0b7b479d09ab427df83afed028be2ca", null ],
+      [ "un1", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a0e58895b0c102f6759ff2c33221399a1", null ],
+      [ "un2", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a59c883fb551e0f7c7648e7f142cfb5f0", null ],
+      [ "vn", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a7b91cee95e62acbe0e3f6fca1c7b9bf8", null ],
+      [ "vn1", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a9d7f8dbbf6d08b6ff79547c3ab7499c0", null ],
+      [ "vn2", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a54992da8e502747b7895b95c79dad7ef", null ],
+      [ "M0", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a764c902c4cc509931b52bdace1de5b2d", null ],
+      [ "M1", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a16213ab530eed6db47db6663d9c45a2f", null ],
+      [ "M2", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a2a85e3370a88de45192a480624ef4e54", null ],
+      [ "M3", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a286d7db8caa17ad85ee70a73fb6625b9", null ],
+      [ "M4", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a8df9ef2ade8e5cc8006fe237d9c22f65", null ],
+      [ "M5", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a91c02789be086c257e3805d5e2f13d7b", null ],
+      [ "M6", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244ab13e3a612bc933f7d6f49a6fedc98a0d", null ],
+      [ "M7", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a6e957726a09f637c704fd5872ea9aebd", null ],
+      [ "M8", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a111997dc140b04cd64c577dd5101ec44", null ],
+      [ "M9", "class_poincare_1_1_symbol.html#a083f87de1b9d96f87426b1f636796244a71792f1cf9284bd4639a409856ae06db", null ]
+    ] ],
+    [ "Symbol", "class_poincare_1_1_symbol.html#a6d95610b6c85fc33ea79c10102656de5", null ],
+    [ "Symbol", "class_poincare_1_1_symbol.html#aa81de8224632ccb28967792f5aded2ef", null ],
+    [ "Symbol", "class_poincare_1_1_symbol.html#a5237b04c971c2b05828a19d8ec400af1", null ],
+    [ "characteristicXRange", "class_poincare_1_1_symbol.html#a7425e30d759a7bf7d1175dd69298a5c9", null ],
+    [ "clone", "class_poincare_1_1_symbol.html#a0819a303ad7b703a6c5e05f88619662b", null ],
+    [ "hasAnExactRepresentation", "class_poincare_1_1_symbol.html#a6874ff54a96774942d22ab31a3d7659f", null ],
+    [ "isApproximate", "class_poincare_1_1_symbol.html#a09a780b0ba95a5641989bb328324f5cc", null ],
+    [ "isMatrixSymbol", "class_poincare_1_1_symbol.html#abb2aff98eaa575bb2b2b797001097213", null ],
+    [ "isScalarSymbol", "class_poincare_1_1_symbol.html#a0c359c278ac5f66a8018ec2d5e5de1cc", null ],
+    [ "name", "class_poincare_1_1_symbol.html#a464eb8588520d504100e20a67f3c54a1", null ],
+    [ "polynomialDegree", "class_poincare_1_1_symbol.html#a04f32e59350b13847fbc534438258c17", null ],
+    [ "sign", "class_poincare_1_1_symbol.html#a73391f71476a7275c5045158e5d1068a", null ],
+    [ "type", "class_poincare_1_1_symbol.html#a586ab23a45f7ef969b1ccd4701d71263", null ]
+];
